@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/ClinicApp-XnHeBQni.js","assets/index-DjIepArh.js"])))=>i.map(i=>d[i]);
+import{D as e,S as t,b as n,t as r}from"./index-DjIepArh.js";var i=e(t()),a=n(),o=(0,i.lazy)(()=>r(()=>import(`./ClinicApp-XnHeBQni.js`),__vite__mapDeps([0,1])));function s(){return(0,a.jsx)(i.Suspense,{fallback:(0,a.jsx)(`div`,{className:`min-h-screen bg-background`}),children:(0,a.jsx)(o,{})})}export{s as component};
