@@ -1,0 +1,8 @@
+project name = medcore-
+database pass = 2HP8!h#X4!rDE4*
+database publishable key = sb_publishable_GllUMvo-fdMkJByP-chgXQ_N9Fjz687
+anon key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind0c2ZyY254dnpkYnRpa2l2bGN6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM2NjYzMTcsImV4cCI6MjA5OTI0MjMxN30.y0q6aue_sxmdbXMByfsJQlzhLO454zHHL717qYYAcZs
+service role key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind0c2ZyY254dnpkYnRpa2l2bGN6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MzY2NjMxNywiZXhwIjoyMDk5MjQyMzE3fQ.doypY1aKEfiJOR-hNg5n0ITIRQkkAfAFywlrvcxGPHE
+project url = https://wtsfrcnxvzdbtikivlcz.supabase.co
+
+
